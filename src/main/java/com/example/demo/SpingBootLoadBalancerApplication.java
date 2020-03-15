@@ -13,19 +13,11 @@ public class SpingBootLoadBalancerApplication {
 
 	public static void main(String[] args) {
 
-		
 /**
  *   1.0 分支
- *   主干
  */
 		  Integer add=0;
-		  ddd(add);
 		SpringApplication.run(SpingBootLoadBalancerApplication.class, args);
 	}
-
-	private static void ddd(Integer add) {
-		System.out.println("dddddd");
-	}
-
 
 }
