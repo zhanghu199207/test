@@ -24,6 +24,7 @@ public class SpingBootLoadBalancerApplication {
 	}
 
 	private static void ddd(Integer add) {
+		System.out.println("dddddd");
 	}
 
 
