@@ -15,9 +15,11 @@ public class SpingBootLoadBalancerApplication {
 
 /**
  *   1.0 分支
+ *   2.0 分支
  */
 		  Integer add=0;
 		SpringApplication.run(SpingBootLoadBalancerApplication.class, args);
 	}
+
 
 }
