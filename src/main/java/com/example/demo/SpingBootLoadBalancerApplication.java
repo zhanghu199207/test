@@ -12,6 +12,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class SpingBootLoadBalancerApplication {
 
 	public static void main(String[] args) {
+
+
+		  Integer add=0;
 		SpringApplication.run(SpingBootLoadBalancerApplication.class, args);
 	}
 
